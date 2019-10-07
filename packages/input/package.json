@@ -4,6 +4,7 @@
   "main": "lib/index.js",
   "module": "src/index.js",
   "dependencies": {
+    "common": "^1.0.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "styled-components": "^4.4.0"
